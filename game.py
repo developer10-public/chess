@@ -48,7 +48,7 @@ SOUND = {
 }
 "Sounds."
 
-STOCKFISH_PATH = "/home/administrator/Downloads/stockfish/stockfish-ubuntu-x86-64-avx2"
+STOCKFISH_PATH = "C:\Users\Admin\Downloads\stockfish-windows-x86-64-universal\stockfish\stockfish-windows-x86-64-universal.exe"
 "Stockfish AI evaluates each move is brilliant or blunder."
 class Board:
     "just a board"
